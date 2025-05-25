@@ -1,0 +1,2 @@
+[![](https://raw.githubusercontent.com/fujisawayu/fujisawayu/main/profile-summary-card-output/swift/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/fujisawayu/fujisawayu/main/profile-summary-card-output/swift/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/fujisawayu/fujisawayu/main/profile-summary-card-output/swift/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
